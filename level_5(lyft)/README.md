@@ -11,3 +11,9 @@ wget "https://lyft-l5-datasets-public.s3-us-west-2.amazonaws.com/3d-object-detec
 It's a relative small dataset, so just use the above scripts is enough.
 
 For train/val split, you can refer to [mmdetection3d's documentataion](https://github.com/open-mmlab/mmdetection3d/blob/master/docs/en/datasets/lyft_det.md)
+
+There are few repos to reference with:
+
+l5kit: https://github.com/woven-planet/l5kit
+
+lyft dataset sdk: https://github.com/lyft/nuscenes-devkit
