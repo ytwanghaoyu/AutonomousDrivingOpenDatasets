@@ -1,8 +1,8 @@
-# Download Scripts for Perspective Images
+# Download Scripts for KITTI-360
 
 Scripts to download kitti-360 dataset, if any script is not working anymor go to [kitti-360 websit](https://www.cvlibs.net/datasets/kitti-360/download.php) to download it.
 
-- [Download Scripts for Perspective Images](#download-scripts-for-perspective-images)
+- [Download Scripts for KITTI-360](#download-scripts-for-kitti-360)
   - [2D data \& labels](#2d-data--labels)
     - [Fisheye Images (335G)](#fisheye-images-335g)
     - [Fisheye Calibration Images (11G)](#fisheye-calibration-images-11g)
