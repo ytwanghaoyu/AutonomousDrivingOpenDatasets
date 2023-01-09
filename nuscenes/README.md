@@ -38,3 +38,12 @@ echo "02 finished"
 tar zxf ../v1.0-trainval-original-tgz/v1.0-trainval_meta.tgz -C ../nuscenes/
 echo "trainval_meta"
 ```
+
+The Total Size for following zip/tar file is 349G.
+
+```bash
+can_bus.zip                      v1.0-test_blobs.tgz        v1.0-trainval03_blobs.tgz  v1.0-trainval07_blobs.tgz  v1.0-trainval_meta.tgz
+nuScenes-lidarseg-all-v1.0.tar   v1.0-test_meta.tgz         v1.0-trainval04_blobs.tgz  v1.0-trainval08_blobs.tgz
+nuScenes-map-expansion-v1.3.zip  v1.0-trainval01_blobs.tgz  v1.0-trainval05_blobs.tgz  v1.0-trainval09_blobs.tgz
+nuScenes-panoptic-v1.0-all.tar   v1.0-trainval02_blobs.tgz  v1.0-trainval06_blobs.tgz  v1.0-trainval10_blobs.tgz
+```
