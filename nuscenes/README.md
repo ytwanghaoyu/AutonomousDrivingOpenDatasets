@@ -29,14 +29,7 @@ echo 3eee698806fcf52330faa2e682b9f3a1
 Then extract them into the same folder
 
 ```bash
-set -e
-tar zxf ../v1.0-trainval-original-tgz/v1.0-trainval01_blobs.tgz -C ../nuscenes/
-echo "01 finished"
-tar zxf ../v1.0-trainval-original-tgz/v1.0-trainval02_blobs.tgz -C ../nuscenes/
-echo "02 finished"
-.....
-tar zxf ../v1.0-trainval-original-tgz/v1.0-trainval_meta.tgz -C ../nuscenes/
-echo "trainval_meta"
+bash extract.sh
 ```
 
 The Total Size for following zip/tar file is 349G.
